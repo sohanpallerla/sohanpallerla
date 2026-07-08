@@ -73,6 +73,11 @@ My goal is to become a highly skilled **AI Engineer**, specializing in designing
 
 # 🌟 Featured Projects
 
+### 🌙 Low-Light Object Detection
+- AI-powered object detection in low-light environments
+- Image enhancement and real-time object recognition
+- Python • PyTorch • OpenCV • YOLO • Computer Vision
+- 
 ### 🗺️ AI Map Matching System
 - GNSS-based vehicle classification
 - Highway vs Service Road detection
@@ -83,36 +88,10 @@ My goal is to become a highly skilled **AI Engineer**, specializing in designing
 - Decision Tree & SVM
 - Symptom analysis and precautions
 
-### 📄 AI Resume Generator
-- ATS-friendly resume generation
-- AI-assisted document creation
-
-### 🎓 Student Attendance Management System
-- Full Stack attendance platform
-- React • Node.js • MongoDB
 
 ---
 
-# 📈 GitHub Analytics
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sohanpallerla&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohanpallerla&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=sohanpallerla&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sohanpallerla&theme=tokyo-night"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sohanpallerla&theme=tokyonight&row=1&column=7"/>
-</p>
-
----
 
 # 📚 Learning Journey
 
