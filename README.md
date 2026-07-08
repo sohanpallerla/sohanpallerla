@@ -16,17 +16,21 @@
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-I am **Pallerla Sohan**, an Information Technology graduate from **Vasavi College of Engineering** with a strong interest in **Artificial Intelligence, Machine Learning, Full Stack Development, and Generative AI**.
+I am **Pallerla Sohan**, an aspiring **AI & Software Engineer** with a strong passion for designing intelligent, scalable, and user-centric solutions that address real-world challenges. My primary interests include **Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Natural Language Processing (NLP), Generative AI, Data Science, and Full-Stack Development**.
 
-I enjoy transforming ideas into real-world software by combining intelligent algorithms with modern web technologies. My projects focus on solving practical problems through AI, backend systems, and responsive user interfaces.
+I enjoy transforming innovative ideas into practical applications by combining analytical thinking, creativity, and modern technologies. My goal is to develop AI-powered systems that improve everyday experiences while solving complex technical problems with clean, efficient, and maintainable code.
 
-I continuously improve my skills by building end-to-end applications, participating in internships, and exploring emerging AI technologies.
+Throughout my projects and practical experience, I have built intelligent applications, machine learning solutions, and full-stack web platforms using technologies including **Python, Java, JavaScript, React, Node.js, Flask, PyTorch, OpenCV, SQL, MongoDB, and Git**. I have experience designing responsive front-end interfaces, developing secure backend services, integrating AI and machine learning models, and creating data-driven applications that prioritize performance, scalability, and usability.
 
-### 🎯 Career Goal
+I am passionate about continuous learning and staying up to date with the rapidly evolving world of Artificial Intelligence and software engineering. I actively explore emerging technologies such as **Large Language Models (LLMs), Agentic AI, Retrieval-Augmented Generation (RAG), MLOps, and Cloud Computing** to expand my knowledge and build next-generation intelligent applications.
 
-Become an **AI Engineer** developing scalable AI-powered applications that create meaningful impact across healthcare, transportation, education, and enterprise software.
+I believe that technology has the power to create meaningful impact, and I am always eager to collaborate with innovative teams, contribute to challenging projects, and develop solutions that improve lives through intelligent software and AI-driven innovation.
+
+### 🎯 Career Objective
+
+My goal is to become a highly skilled **AI Engineer**, specializing in designing and deploying intelligent systems that combine Machine Learning, Deep Learning, and modern software engineering practices to solve real-world problems at scale.
 
 ---
 
