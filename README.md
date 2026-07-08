@@ -34,42 +34,104 @@ My goal is to become a highly skilled **AI Engineer**, specializing in designing
 
 ---
 
-# 💡 Current Focus
 
-- 🤖 Artificial Intelligence
+# 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,mysql" />
+</p>
+
+**Languages:**  
+Python • Java • C • C++ • JavaScript • SQL
+
+---
+
+### 🌐 Web Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nodejs,express,flask" />
+</p>
+
+**Technologies:**  
+HTML5 • CSS3 • Bootstrap • React.js • Node.js • Express.js • Flask
+
+---
+
+### 🤖 AI / Machine Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+</p>
+
+**Technologies:**  
+Machine Learning • Deep Learning • Artificial Intelligence • Generative AI • Computer Vision • Natural Language Processing (NLP) • PyTorch • TensorFlow • OpenCV • NumPy • Pandas • Scikit-learn
+
+---
+
+### 🗄️ Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+**Databases:**  
+MongoDB • MySQL • SQL
+
+---
+
+### ☁️ Cloud & DevOps
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux" />
+</p>
+
+**Technologies:**  
+Git • GitHub • Docker • Linux
+
+---
+
+### 🛠️ Developer Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,postman,jupyter" />
+</p>
+
+**Tools:**  
+Visual Studio Code • Postman • Jupyter Notebook
+
+---
+
+### 📚 Core Concepts
+
+- 🧩 Data Structures & Algorithms (DSA)
+- 🏗️ Object-Oriented Programming (OOP)
+- 🗄️ Database Management Systems (DBMS)
+- 🔗 REST API Development
+- ⚙️ Software Development Life Cycle (SDLC)
 - 🧠 Machine Learning
+- 🤖 Deep Learning
+- 👁️ Computer Vision
+- 💬 Natural Language Processing (NLP)
 - 📊 Data Science
-- 🧩 Generative AI
-- 🐍 Python Development
-- ⚛️ React Development
-- 🌐 Full Stack Development
-- ☁️ Cloud & MLOps
+- 🌐 Full-Stack Development
+- 🏛️ Design Patterns
+- 🔍 Problem Solving
+- 📈 Data Structures
+- 🚀 Version Control (Git)
 
 ---
 
-# 🛠 Tech Stack
+### 🚀 Currently Exploring
 
-### Languages
-
-![Python](https://skillicons.dev/icons?i=python,java,cpp,c,javascript)
-
-### Frontend
-
-![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,react)
-
-### Backend
-
-![Backend](https://skillicons.dev/icons?i=nodejs,express,flask)
-
-### Databases
-
-![DB](https://skillicons.dev/icons?i=mongodb,mysql)
-
-### Tools
-
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman)
-
----
+- 🧠 Large Language Models (LLMs)
+- 🤖 Agentic AI
+- 🔎 Retrieval-Augmented Generation (RAG)
+- ☁️ MLOps
+- ⚡ LangChain
+- 📦 Hugging Face
+- ☁️ Cloud Computing
 
 # 🌟 Featured Projects
 
