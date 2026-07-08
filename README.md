@@ -131,25 +131,6 @@ Visual Studio Code • Postman • Jupyter Notebook
 - 📦 Hugging Face
 - ☁️ Cloud Computing
 
----
-
-# 🌟 Featured Projects
-
-### 🌙 Low-Light Object Detection
-- AI-powered object detection in low-light environments
-- Image enhancement and real-time object recognition
-- Python • PyTorch • OpenCV • YOLO • Computer Vision
-- 
-### 🗺️ AI Map Matching System
-- GNSS-based vehicle classification
-- Highway vs Service Road detection
-- Python • Flask • React • GeoPandas
-
-### 🩺 AI Healthcare Chatbot
-- Disease prediction using Machine Learning
-- Decision Tree & SVM
-- Symptom analysis and precautions
-
 
 ---
 
@@ -184,7 +165,7 @@ Cloud            ██████░░░░░░░
 # 🌍 Connect With Me
 
 - 🌐 Portfolio: https://sohanpallerla.github.io
-- 💼 LinkedIn: https://www.linkedin.com/in/pallerla-sohan-ba79a8246
+- 💼 LinkedIn: www.linkedin.com/in/sohanpallerla
 - 💻 GitHub: https://github.com/sohanpallerla
 
 ---
