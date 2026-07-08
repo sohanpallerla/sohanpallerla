@@ -23,6 +23,9 @@ I am **Pallerla Sohan**, an aspiring **AI & Software Engineer** passionate about
 Through hands-on projects and continuous learning, I have developed intelligent applications, machine learning solutions, and full-stack web platforms using technologies such as **Python, Java, JavaScript, React, Node.js, Flask, PyTorch, OpenCV, SQL, MongoDB, Git, and GitHub**. My experience includes developing responsive user interfaces, building secure backend services, integrating AI and machine learning models, and creating scalable, data-driven applications with a strong focus on performance, maintainability, and user experience.
 
 I am committed to continuous growth and staying at the forefront of emerging technologies. I actively explore **Large Language Models (LLMs), Agentic AI, Retrieval-Augmented Generation (RAG), MLOps, Cloud Computing, and modern AI frameworks** to expand my expertise. My goal is to become a skilled **AI Engineer** who develops innovative, reliable, and impactful AI-powered solutions while collaborating with talented teams to solve complex problems and contribute to the future of intelligent technology.
+
+---
+
 ### 🎯 Career Objective
 
 My goal is to become a highly skilled **AI Engineer**, specializing in designing and deploying intelligent systems that combine Machine Learning, Deep Learning, and modern software engineering practices to solve real-world problems at scale.
@@ -128,6 +131,8 @@ Visual Studio Code • Postman • Jupyter Notebook
 - 📦 Hugging Face
 - ☁️ Cloud Computing
 
+---
+
 # 🌟 Featured Projects
 
 ### 🌙 Low-Light Object Detection
@@ -153,7 +158,7 @@ Visual Studio Code • Postman • Jupyter Notebook
 # 📚 Learning Journey
 
 ```text
-Python           █████████████░
+Python           ████████████░
 Machine Learning ███████████░░
 React            ███████████░░
 Node.js          ██████████░░░
@@ -183,13 +188,3 @@ Cloud            ██████░░░░░░░
 - 💻 GitHub: https://github.com/sohanpallerla
 
 ---
-
-# 💬 Favorite Quote
-
-> "Great software is built by continuously learning, experimenting, and solving meaningful problems."
-
----
-
-# ⭐ Thanks for Visiting!
-
-If you enjoy my projects, consider giving them a ⭐ and following my journey in AI and software development.
