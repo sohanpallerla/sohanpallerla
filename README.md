@@ -18,16 +18,11 @@
 
 ## 🚀 About Me
 
-I am **Pallerla Sohan**, an aspiring **AI & Software Engineer** with a strong passion for designing intelligent, scalable, and user-centric solutions that address real-world challenges. My primary interests include **Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Natural Language Processing (NLP), Generative AI, Data Science, and Full-Stack Development**.
+I am **Pallerla Sohan**, an aspiring **AI & Software Engineer** passionate about designing intelligent, scalable, and user-centric solutions that solve real-world challenges. My interests span **Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Natural Language Processing (NLP), Generative AI, Data Science, and Full-Stack Development**. I enjoy transforming innovative ideas into practical applications by combining analytical thinking, creativity, and modern technologies to build impactful software that delivers meaningful value.
 
-I enjoy transforming innovative ideas into practical applications by combining analytical thinking, creativity, and modern technologies. My goal is to develop AI-powered systems that improve everyday experiences while solving complex technical problems with clean, efficient, and maintainable code.
+Through hands-on projects and continuous learning, I have developed intelligent applications, machine learning solutions, and full-stack web platforms using technologies such as **Python, Java, JavaScript, React, Node.js, Flask, PyTorch, OpenCV, SQL, MongoDB, Git, and GitHub**. My experience includes developing responsive user interfaces, building secure backend services, integrating AI and machine learning models, and creating scalable, data-driven applications with a strong focus on performance, maintainability, and user experience.
 
-Throughout my projects and practical experience, I have built intelligent applications, machine learning solutions, and full-stack web platforms using technologies including **Python, Java, JavaScript, React, Node.js, Flask, PyTorch, OpenCV, SQL, MongoDB, and Git**. I have experience designing responsive front-end interfaces, developing secure backend services, integrating AI and machine learning models, and creating data-driven applications that prioritize performance, scalability, and usability.
-
-I am passionate about continuous learning and staying up to date with the rapidly evolving world of Artificial Intelligence and software engineering. I actively explore emerging technologies such as **Large Language Models (LLMs), Agentic AI, Retrieval-Augmented Generation (RAG), MLOps, and Cloud Computing** to expand my knowledge and build next-generation intelligent applications.
-
-I believe that technology has the power to create meaningful impact, and I am always eager to collaborate with innovative teams, contribute to challenging projects, and develop solutions that improve lives through intelligent software and AI-driven innovation.
-
+I am committed to continuous growth and staying at the forefront of emerging technologies. I actively explore **Large Language Models (LLMs), Agentic AI, Retrieval-Augmented Generation (RAG), MLOps, Cloud Computing, and modern AI frameworks** to expand my expertise. My goal is to become a skilled **AI Engineer** who develops innovative, reliable, and impactful AI-powered solutions while collaborating with talented teams to solve complex problems and contribute to the future of intelligent technology.
 ### 🎯 Career Objective
 
 My goal is to become a highly skilled **AI Engineer**, specializing in designing and deploying intelligent systems that combine Machine Learning, Deep Learning, and modern software engineering practices to solve real-world problems at scale.
